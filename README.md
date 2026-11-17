@@ -9,3 +9,9 @@ This project involves fetching and analyzing historical weather data using the *
 - Perform exploratory data analysis and visualization.
 - Compare weather patterns between different locations.
 - Provide exercises for further practice, along with detailed solutions.
+
+## License
+
+The code I wrote is released under the [MIT License](LICENSE). It does not
+cover Springboard's exercise text or the datasets, which keep their own
+terms.
